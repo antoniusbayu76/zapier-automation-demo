@@ -13,12 +13,6 @@ Trigger: New row in Google Sheets (connected to Google Form)
 Action 1: Send message to Slack (#new-leads)  
 Action 2: Send email via Gmail  
 
-## 🖼️ Screenshots
-- Google Form  
-- Google Sheet with captured data  
-- Slack notification  
-- Zapier workflow setup  
-
 ## ⚙️ Tools Used
 - Zapier
 - Google Forms
